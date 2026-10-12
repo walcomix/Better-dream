@@ -1,0 +1,18 @@
+
+{
+  "format_version": 2,
+  "header": {
+    "name": "Better Dream RP",
+    "description": "Better Dream - Resource Pack",
+    "uuid": "d43f0e93-7064-4cb8-bf59-3ea6b24c9d85",
+    "version": [0, 1, 0],
+    "min_engine_version": [1, 26, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "e5401fa4-8175-4dc9-906a-4fb7c35dae96",
+      "version": [0, 1, 0]
+    }
+  ]
+}
