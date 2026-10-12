@@ -1,0 +1,18 @@
+
+{
+  "format_version": 2,
+  "header": {
+    "name": "Better Dream BP",
+    "description": "Better Dream - Behavior Pack",
+    "uuid": "b21d8c71-5e42-4a96-9d37-1c84f02a7b63",
+    "version": [0, 1, 0],
+    "min_engine_version": [1, 26, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "c32e9d82-6f53-4ba7-ae48-2d95a13b8c74",
+      "version": [0, 1, 0]
+    }
+  ]
+}
