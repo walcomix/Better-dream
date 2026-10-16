@@ -9,18 +9,7 @@
       "is_experimental": false
     },
     "components": {
-    "minecraft:behavior.random_stroll": {
-  "priority": 6,
-  "speed_multiplier": 1.0
-},
-"minecraft:behavior.look_at_player": {
-  "priority": 7,
-  "look_distance": 6,
-  "probability": 0.02
-},
-"minecraft:behavior.random_look_around": {
-  "priority": 8
-},
+      "minecraft:type_family": {
         "family": ["snake", "mob"]
       },
       "minecraft:health": {
@@ -38,6 +27,18 @@
       "minecraft:navigation.walk": {
         "can_path_over_water": false,
         "avoid_water": true
+      },
+      "minecraft:behavior.random_stroll": {
+        "priority": 6,
+        "speed_multiplier": 1.0
+      },
+      "minecraft:behavior.look_at_player": {
+        "priority": 7,
+        "look_distance": 6,
+        "probability": 0.02
+      },
+      "minecraft:behavior.random_look_around": {
+        "priority": 8
       },
       "minecraft:physics": {},
       "minecraft:pushable": {
